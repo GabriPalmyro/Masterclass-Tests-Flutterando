@@ -1,0 +1,5 @@
+name: future_tests
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+dev_dependencies:
+  test: ^1.24.6

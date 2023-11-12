@@ -1,0 +1,10 @@
+name: widget_tests
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+dev_dependencies:
+  flutter_test:
+    sdk: 'flutter'
+  mocktail: ^1.0.0
+dependencies:
+  flutter:
+    sdk: 'flutter'
